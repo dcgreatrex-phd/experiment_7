@@ -1,0 +1,6 @@
+1 1 Yellow c Yellow 786
+0 0 Red c Green 726
+0 0 Yellow c Yellow 508
+0 0 Red c Red 752
+1 1 Blue m Blue 639
+0 0 Red c Red 626

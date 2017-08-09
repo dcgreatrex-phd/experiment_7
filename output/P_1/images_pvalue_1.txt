@@ -1,0 +1,7 @@
+32 32.jpg 32.wav Pop c 5 539 0
+40 40.jpg 40.wav Folk b 3 469 0
+22 22.jpg 22.wav Cl_p v 4 383 0
+34 34.jpg 34.wav Cl_p n 2 849 0
+35 35.jpg 35.wav Folk m 1 332 0
+6 6.jpg 6.wav Rock b 3 173 0
+55 55.jpg 55.wav Cl_ch v 4 351 0

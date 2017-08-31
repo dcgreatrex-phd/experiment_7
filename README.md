@@ -1,5 +1,5 @@
 #====================================================
-# Title:       Experiment 7: Complex averaging and prior knowledge
+# Title:       Experiment 7: Subjective value
 # Author:      David Greatrex
 # Last edited: 30/08/2017
 #====================================================
@@ -17,7 +17,7 @@ Thus experiment 7 was designed with three aims in mind:
 MATLAB (MathWorks) - the program was build in version R2015b. Psychtoolbox3 (http://psychtoolbox.org/) - version 3.0.13 - Flavor: beta - Corresponds to SVN Revision 8038.
 
 # Run files:
-a_prevalue_configuration (Task 1)
-b_generate_data_default  (Stimulus generation)
-c_binary_choice_task     (Task 2)
-d_merge_data_files       (Data processing)
+- a_prevalue_configuration (Task 1)
+- b_generate_data_default  (Stimulus generation)
+- c_binary_choice_task     (Task 2)
+- d_merge_data_files       (Data processing)
